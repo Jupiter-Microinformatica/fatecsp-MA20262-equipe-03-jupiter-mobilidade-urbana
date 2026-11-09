@@ -3,7 +3,7 @@
 Projeto evolutivo de dados desenvolvido para a disciplina de Microinformática Aplicada (ILP590) - Fatec São Paulo. 
 O objetivo deste repositório é consolidar, tratar e modelar dados do tema **[Seu Tema]** para a construção de indicadores de performance.
 
-## 👥 Equipe [Número da Equipe]
+## 👥 Equipe 03
 * Bianca Silva Nunes
 * Eduardo Souza Castro
 * Guilherme Fernandes Silva
