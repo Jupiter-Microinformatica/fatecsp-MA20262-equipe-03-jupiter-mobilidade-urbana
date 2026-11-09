@@ -1,0 +1,5 @@
+Cod_Linha,Linha,Cor,Inicio_Operacao,Estacoes_Linha,Extensao_Km,Vel_Max_Kmh
+L1,Linha 1-Azul,Azul,1974,23,20.2,87
+L2,Linha 2-Verde,Verde,1991,14,14.7,80
+L3,Linha 3-Vermelha,Vermelha,1979,18,22,87
+L15,Linha 15-Prata,Prata,2015,11,14.5,83

@@ -1,0 +1,67 @@
+Cod_Estacao,Cod_Linha,Sigla,Estacao,Ordem_Fonte,Tipo_Integracao,Transf_Interna,Linha_Transf_Interna,Integra_CPTM,Integra_L4,Integra_L5,Primeira_Ocorrencia,Perfil_Hipotese
+L1-JAB,L1,JAB,Jabaquara,1,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-CON,L1,CON,Conceição,2,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-JUD,L1,JUD,São Judas,3,Sem transferência,Não,-,Não,Não,Não,Sim,Estudo
+L1-SAU,L1,SAU,Saúde,4,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-ARV,L1,ARV,Praça da Árvore,5,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-SCZ,L1,SCZ,Santa Cruz,6,Externa (CPTM/L4/L5),Não,-,Não,Não,Sim,Sim,Sem classificação
+L1-VMN,L1,VMN,Vila Mariana,7,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-ANR,L1,ANR,Ana Rosa,8,Interna Metrô,Sim,L2,Não,Não,Não,Sim,Sem classificação
+L1-PSO,L1,PSO,Paraíso,9,Interna Metrô,Sim,L2,Não,Não,Não,Sim,Sem classificação
+L1-VGO,L1,VGO,Vergueiro - Sebrae,10,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-JQM,L1,JQM,São Joaquim,11,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-LIB,L1,LIB,Japão-Liberdade,12,Sem transferência,Não,-,Não,Não,Não,Sim,Lazer/Cultura
+L1-PSE,L1,PSE,Sé,13,Interna Metrô,Sim,L3,Não,Não,Não,Sim,Sem classificação
+L1-BTO,L1,BTO,São Bento,14,Sem transferência,Não,-,Não,Não,Não,Sim,Trabalho/Serviços
+L1-LUZ,L1,LUZ,Luz,15,Externa (CPTM/L4/L5),Não,-,Sim,Sim,Não,Sim,Sem classificação
+L1-TRD,L1,TRD,Tiradentes,16,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-PPQ,L1,PPQ,Armênia,17,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-TTE,L1,TTE,Portuguesa-Tietê,18,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-CDU,L1,CDU,Carandiru,19,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-SAN,L1,SAN,Santana,20,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-JPA,L1,JPA,Jardim São Paulo-Ayrton Senna,21,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-PIG,L1,PIG,Parada Inglesa,22,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L1-TUC,L1,TUC,Tucuruvi,23,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L2-VPT,L2,VPT,Vila Prudente,1,Interna Metrô,Sim,L15,Não,Não,Não,Sim,Sem classificação
+L2-TTI,L2,TTI,Tamanduateí,2,Externa (CPTM/L4/L5),Não,-,Sim,Não,Não,Sim,Sem classificação
+L2-SAC,L2,SAC,Sacomã,3,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L2-AIP,L2,AIP,Alto do Ipiranga,4,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L2-IMG,L2,IMG,Santos-Imigrantes,5,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L2-CKB,L2,CKB,Chácara Klabin,6,Externa (CPTM/L4/L5),Não,-,Não,Não,Sim,Sim,Sem classificação
+L2-ANR,L2,ANR,Ana Rosa,7,Interna Metrô,Sim,L1,Não,Não,Não,Não,Sem classificação
+L2-PSO,L2,PSO,Paraíso,8,Interna Metrô,Sim,L1,Não,Não,Não,Não,Sem classificação
+L2-BGD,L2,BGD,Brigadeiro,9,Sem transferência,Não,-,Não,Não,Não,Sim,Trabalho/Serviços
+L2-TRI,L2,TRI,Trianon-Masp,10,Sem transferência,Não,-,Não,Não,Não,Sim,Lazer/Cultura
+L2-CNS,L2,CNS,Consolação,11,Externa (CPTM/L4/L5),Não,-,Não,Sim,Não,Sim,Trabalho/Serviços
+L2-CLI,L2,CLI,Clínicas,12,Sem transferência,Não,-,Não,Não,Não,Sim,Estudo
+L2-SUM,L2,SUM,Santuário N.S. de Fátima-Sumaré,13,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L2-VMD,L2,VMD,Vila Madalena,14,Sem transferência,Não,-,Não,Não,Não,Sim,Lazer/Cultura
+L3-ITQ,L3,ITQ,Corinthians-Itaquera,1,Externa (CPTM/L4/L5),Não,-,Sim,Não,Não,Sim,Lazer/Cultura
+L3-ART,L3,ART,Artur Alvim,2,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-PCA,L3,PCA,Patriarca-Vila Ré,3,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-VPA,L3,VPA,Guilhermina-Esperança,4,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-VTD,L3,VTD,Vila Matilde,5,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-PEN,L3,PEN,Penha-Lojas Besni,6,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-CAR,L3,CAR,Carrão-Assaí Atacadista,7,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-TAT,L3,TAT,Tatuapé,8,Externa (CPTM/L4/L5),Não,-,Sim,Não,Não,Sim,Sem classificação
+L3-BEL,L3,BEL,Belém,9,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-BRE,L3,BRE,Bresser-Moóca,10,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-BAS,L3,BAS,Brás,11,Externa (CPTM/L4/L5),Não,-,Sim,Não,Não,Sim,Sem classificação
+L3-PDS,L3,PDS,Pedro II,12,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-PSE,L3,PSE,Sé,13,Interna Metrô,Sim,L1,Não,Não,Não,Não,Sem classificação
+L3-GBU,L3,GBU,Anhangabaú,14,Sem transferência,Não,-,Não,Não,Não,Sim,Trabalho/Serviços
+L3-REP,L3,REP,República,15,Externa (CPTM/L4/L5),Não,-,Não,Sim,Não,Sim,Trabalho/Serviços
+L3-CEC,L3,CEC,Santa Cecília,16,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-DEO,L3,DEO,Marechal Deodoro,17,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L3-BFU,L3,BFU,Palmeiras-Barra Funda,18,Externa (CPTM/L4/L5),Não,-,Sim,Não,Não,Sim,Sem classificação
+L15-VPM,L15,VPM,Vila Prudente,1,Interna Metrô,Sim,L2,Não,Não,Não,Não,Sem classificação
+L15-ORT,L15,ORT,Oratório,2,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-SLU,L15,SLU,São Lucas,3,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-CAD,L15,CAD,Camilo Haddad,4,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-VTL,L15,VTL,Vila Tolstói,5,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-VUN,L15,VUN,Vila União,6,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-JPL,L15,JPL,Jardim Planalto,7,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-SAP,L15,SAP,Sapopemba,8,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-FJT,L15,FJT,Fazenda da Juta,9,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-MAT,L15,MAT,São Mateus,10,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
+L15-IGT,L15,IGT,Jardim Colonial,11,Sem transferência,Não,-,Não,Não,Não,Sim,Sem classificação
