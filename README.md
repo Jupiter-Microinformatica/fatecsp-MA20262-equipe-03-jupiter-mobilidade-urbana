@@ -1,7 +1,7 @@
 # Projeto Prático: Mobilidade urbana (Microinformática Aplicada)
 
 Projeto evolutivo de dados desenvolvido para a disciplina de Microinformática Aplicada (ILP590) - Fatec São Paulo. 
-O objetivo deste repositório é consolidar, tratar e modelar dados do tema **[Seu Tema]** para a construção de indicadores de performance.
+O objetivo deste repositório é consolidar, tratar e modelar dados do tema mobilidade urbana para a construção de indicadores de performance.
 
 ## 👥 Equipe 03
 * Bianca Silva Nunes
